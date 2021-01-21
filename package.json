@@ -15,7 +15,7 @@
     "express": "^4.16.4",
     "nexmo": "^2.4.1",
     "nodemailer": "^6.2.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "unirest": "^0.6.0",
     "watson-developer-cloud": "^3.18.1"
   },
